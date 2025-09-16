@@ -1,0 +1,61 @@
+{
+  "category": "blockchain",
+  "created_date": "2025-09-15T22:48:58.318405",
+  "default_ports": [
+    80,
+    443,
+    8571
+  ],
+  "dependencies": [],
+  "description": "multichain is a free and open-source blockchain platform. MultiChain provides platform for private blockchains",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/blockchain/multichain",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/blockchain/multichain",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.318429",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "multichain",
+  "repository_url": "https://github.com/howtomgr/multichain",
+  "spec_version": "2.0",
+  "subcategory": "blockchain",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "blockchain",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "multichain Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/blockchain/multichain"
+}
